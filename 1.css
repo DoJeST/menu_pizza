@@ -1,0 +1,59 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-size: 25px;
+    background-color: rgba(216, 140, 0, 0.836);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+h1{
+    font-size: 72px;
+    letter-spacing: 5px;
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: rgb(73, 46, 0);
+    background-color: #ffbc41;
+}
+
+#top-menu{
+    width: 350px;
+    margin: 0 auto;
+}
+
+#left, #right{
+    width: 40vw;
+    display: inline-block;
+}
+
+#ch1{
+    width: 30vw;
+    margin-top: 10px;
+}
+
+.item{
+    margin: 3vw;
+    border-radius: 5px;
+    border: rgb(175, 114, 0);
+    background-color: #ffbc41;
+    color: rgb(78, 53, 0);
+}
+
+#ch2{
+    width: 20vw;
+    margin-top: 10px;
+}
+
+ol{
+    color: rgb(83, 54, 0);
+    background-color: #ffbc41;
+}
+
+#ch3{
+    width: 25vw;
+    margin-top: 10px;
+}
+
+
